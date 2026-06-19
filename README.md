@@ -1,27 +1,98 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building AI-powered applications and automation tools using Next.js, TypeScript, and modern JavaScript.<br>👯 I’m looking to collaborate on:<br>Hackathon projects, AI integrations, intelligent automation systems, and impactful web applications.<br>🤝 I’m looking for help with:<br>Advanced backend architecture, cloud deployment (OCI / GCP), and scaling AI-driven applications.<br>🌱 I’m currently learning:<br>Advanced JavaScript, TypeScript, Node.js, Cloud Technologies, and AI automation workflows.<br>💬 Ask me about:<br>AI projects, automation pipelines, hackathon strategy, and turning ideas into working prototypes.<br>⚡ Fun fact:<br>I love building systems that work quietly in the background while the world thinks it’s magic.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Hey,%20I'm%20Gaurav%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20|%20Automation%20Tinkerer%20|%20Full-Stack%20Dev&descAlignY=58&descSize=18"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gauravrawat2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-rawat-41293928b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/NoOnion9824)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravrawatop@gmail.com) 
+<a href="https://github.com/gaurav21-05">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+apps+%F0%9F%A4%96;Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F;Hackathon+addict+%F0%9F%8F%86;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&size=24&pause=1500"/>
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurav21-05&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gaurav21-05&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav21-05&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gaurav21-05&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=gaurav21-05&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/gaurav21-05?style=for-the-badge&color=38bdf8&label=FOLLOWERS&logo=github"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gaurav21-05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=gaurav21-05&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+🔭 Working on:     AI-powered applications & automation tools (Next.js, TypeScript, JS)
+👯 Collaborate on: Hackathon projects, AI integrations, intelligent automation systems
+🤝 Need help with: Backend architecture, cloud deployment (OCI / GCP), scaling AI apps
+🌱 Learning:       Node.js internals, cloud infra, AI agent workflows
+💬 Ask me about:   AI projects, automation pipelines, hackathon strategy, prototyping fast
+⚡ Fun fact:       I love building systems that quietly work while the world thinks it's magic
+```
+
+<br/>
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://discord.gg/gauravrawat2005"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gaurav-rawat-41293928b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://reddit.com/user/NoOnion9824"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="mailto:gauravrawatop@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<br/>
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,nextjs,nestjs,react,nodejs,tailwind,mongodb,mysql,aws,gcp,firebase,vercel,docker,kubernetes,git,figma,flutter,unity&theme=dark&perline=10"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurav21-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Gaurav's%20GitHub%20Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav21-05&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=10&custom_title=Languages%20I%20Use"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com/?user=gaurav21-05&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav21-05&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/gaurav21-05/gaurav21-05/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<br/>
+
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav21-05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1&column=7"/>
+</p>
+
+<br/>
+
+## 📌 Pinned Projects
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav21-05&repo=movie-search-main&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav21-05&repo=legal-ai-judgment&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
