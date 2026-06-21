@@ -78,12 +78,6 @@
 
 ## 🏆 Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav21-05&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1&column=7"/>
-</p>
-
-<br/>
-
 ## 📌 Pinned Projects
 
 <p align="center">
