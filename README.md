@@ -23,7 +23,6 @@
 🤝 Need help with: Backend architecture, cloud deployment (OCI / GCP), scaling AI apps
 🌱 Learning:       Node.js internals, cloud infra, AI agent workflows
 💬 Ask me about:   AI projects, automation pipelines, hackathon strategy, prototyping fast
-⚡ Fun fact:       I love building systems that quietly work while the world thinks it's magic
 ```
 
 <br/>
