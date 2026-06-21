@@ -76,6 +76,8 @@
 
 <br/>
 
+## Trophies
+
 ## 📌 Pinned Projects
 
 <p align="center">
