@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="130" height="130" alt="Gaurav Rawat Avatar" style="border-radius: 50%; max-width: 100%; border: 2px solid #202532;" />
-
 # ⚡ GAURAV RAWAT
 
 ### `FULL-STACK AI ENGINEER`
